@@ -1,0 +1,16 @@
+h1 {
+  color: #66BFBF;
+}
+body {
+  background-color: #EAF6F6;
+  color: black;
+  display: block;
+  margin: 50px;
+}
+body:focus {
+  outline: none;
+}
+label {
+    font: 1rem 'Fira Sans', sans-serif;
+    cursor: default;
+}
